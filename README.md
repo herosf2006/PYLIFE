@@ -1,7 +1,7 @@
-# Table of Contents
+## Table of Contents
 - [Foundation](#Foundation).
-- [Terminal/Command Prompt+Git/GitHub](#Terminal/Command-Prompt-+-Git/GitHub)
-- Advanced Python
+- [Terminal/Command Prompt + Git/GitHub](#Terminal/Command-Prompt-+-Git/GitHub)
+- [Advanced Python](#Advanced-Python)
 - Popular Libraries
 - Computer Science
 - Web Scrapping
@@ -35,3 +35,25 @@
  - Git Basics
  - GitHub Basics
  - Source Control
+
+# Advanced Python
+ - OOP
+ - Classes
+ - Dunder
+ - Methods
+ - Inheritance
+ - Decorators
+ - Functional Programming
+ - Lambda Functions
+ - Map, filter, zip, reduce
+ - Errors
+ - Error Handling: try, except
+ - File I/O
+ - Regex
+ - Testing, unittest
+ - Import
+ - Modules
+ - Packages
+ - Pip
+ - Virtual Environments
+ - Debugging
