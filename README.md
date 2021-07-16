@@ -1,8 +1,8 @@
 ## Table of Contents
 - [Foundation](#Foundation).
-- [Terminal/Command Prompt + Git/GitHub](#Terminal/Command-Prompt-+-Git/GitHub)
+- [Terminal/Command Prompt/GitHub](#Terminal/Command-Prompt/GitHub)
 - [Advanced Python](#Advanced-Python)
-- Popular Libraries
+- [Popular Libraries](#Popular-Libraries)
 - Computer Science
 - Web Scrapping
  - Web Development
@@ -30,7 +30,7 @@
  - Built-in Functions
  - Commenting: single-line, multi-line, docstrings
 
-# Terminal/Command Prompt + Git/GitHub
+# Terminal/Command Prompt/GitHub
  - Basic Bash Commands
  - Git Basics
  - GitHub Basics
@@ -57,3 +57,40 @@
  - Pip
  - Virtual Environments
  - Debugging
+
+# Popular Libraries
+ - Tkinter
+ - Requests
+ - Pillow
+ - PyQT
+ - Pygame
+
+# Computer Science
+ - Time Complexity
+ - Space Complexity
+ - Big O Notation
+ - Data Structures
+ - Algorithms
+
+# Web Scrappong
+ - Beautiful soup
+ - Selenium
+ - Scrapy
+> #### Project Ideas:
+> - Hacker News Scraper
+> - Dev.to Scrapper
+> - Amazon Price Tracker
+> - Jobs Portal Scraper
+> - COVID-19 Web Scraper
+
+# Web Development
+ - Django
+ - Flask
+ - Zappa
+ - Dash
+### Project Ideas:
+> -- Login System
+> -- Portfolio
+> -- Blog Site
+> -- Todo App
+> -- Ecommerce website
