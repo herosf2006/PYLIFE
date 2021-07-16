@@ -1,5 +1,5 @@
 ## Table of Contents
-- [Foundation](#Foundation).
+- [Foundation](#Foundation)
 - [Terminal/Command Prompt/GitHub](#Terminal/Command-Prompt/GitHub)
 - [Advanced Python](#Advanced-Python)
 - [Popular Libraries](#Popular-Libraries)
