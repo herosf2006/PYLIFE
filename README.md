@@ -3,12 +3,12 @@
 - [Terminal/Command Prompt/GitHub](#Terminal/Command-Prompt/GitHub)
 - [Advanced Python](#Advanced-Python)
 - [Popular Libraries](#Popular-Libraries)
-- Computer Science
-- Web Scrapping
- - Web Development
- - Scripting
- - Ethical Hacking
-- Machine Learning/Data Science
+- [Computer Science](#Computer-Science)
+- [Web Scrapping](#Web-Scrapping)
+- [Web Development](#Web-Development)
+- [Scripting](#Scripting)
+- [Ethical Hacking](#Ethical-Hacking)
+- [Machine Learning/Data Science](#Machine-Learning/Data-Science)
 
 ---
 
@@ -72,7 +72,7 @@
  - Data Structures
  - Algorithms
 
-# Web Scrappong
+# Web Scrapping
  - Beautiful soup
  - Selenium
  - Scrapy
@@ -104,3 +104,35 @@
 > - Contact Book
 > - Directory Tree Generator
 > - Expense Tracker
+
+# Ethical Hacking
+ - SQL injection
+ - Session hijacking
+ - Man in the Middle
+ - Networking
+ - IP Adress
+ - Exploitation
+ - Social Engineering
+ - Pen Testing
+ - Footprinting
+ - Firewall
+> #### Project Ideas
+> - Hacking wireless networks
+> - Create a vulnerable site and hack it
+> - Password cracker
+> - Web Application Pen Testing
+> - Break A Caesar Cipher
+
+# Machine Learning/Data Science
+ - Tensorflow
+ - PyTorch
+ - Keras
+ - Scikit-learn
+ - Numpy
+ - Pandas
+ - SciPy
+ - Matplotlib
+ - Seaborn
+ - Neural Networks
+ - Machine Learning Algorithms
+ - Data
