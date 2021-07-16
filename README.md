@@ -88,9 +88,19 @@
  - Flask
  - Zappa
  - Dash
-### Project Ideas:
-> -- Login System
-> -- Portfolio
-> -- Blog Site
-> -- Todo App
-> -- Ecommerce website
+> #### Project Ideas:
+> - Login System
+> - Portfolio
+> - Blog Site
+> - Todo App
+> - Ecommerce website
+
+ # Scripting
+ - DevOps: Docker, Kubernetes, Gradle, etc
+ - System Admin
+> #### Project Ideas
+> - Automate the Boring Stuff
+> - Create a Calculator
+> - Contact Book
+> - Directory Tree Generator
+> - Expense Tracker
