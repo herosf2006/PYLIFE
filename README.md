@@ -1,6 +1,6 @@
 ## Table of Contents
 - [Foundation](#Foundation)
-- [Terminal/Command Prompt/GitHub](#Terminal\/Command-Prompt\/GitHub)
+- [Terminal/Command Prompt/GitHub](#Terminal-Command-Prompt-GitHub)
 - [Advanced Python](#Advanced-Python)
 - [Popular Libraries](#Popular-Libraries)
 - [Computer Science](#Computer-Science)
@@ -8,7 +8,7 @@
 - [Web Development](#Web-Development)
 - [Scripting](#Scripting)
 - [Ethical Hacking](#Ethical-Hacking)
-- [Machine Learning/Data Science](#Machine-Learning//Data-Science)
+- [Machine Learning/Data Science](#Machine-Learning-Data-Science)
 
 ---
 
@@ -30,7 +30,7 @@
  - Built-in Functions
  - Commenting: single-line, multi-line, docstrings
 
-# Terminal/Command Prompt/GitHub
+# Terminal-Command Prompt-GitHub
  - Basic Bash Commands
  - Git Basics
  - GitHub Basics
@@ -123,7 +123,7 @@
 > - Web Application Pen Testing
 > - Break A Caesar Cipher
 
-# Machine Learning/Data Science
+# Machine Learning-Data Science
  - Tensorflow
  - PyTorch
  - Keras
